@@ -1,1 +1,44 @@
 @import "tailwindcss";
+
+:root {
+    --primary: #FF6200;
+    --secondary: #035A8F;
+    --tertiary: #4C4C4C;
+    --light: #FFFFFF;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+.section-container {
+    width: 73.6%;
+    margin: auto;
+}
+
+.bg-primary {
+    background-color: var(--primary);
+}
+
+.text-primary {
+    color: var(--primary);
+}
+
+.text-secondary {
+    color: var(--secondary);
+}
+
+.text-tertiary {
+    color: var(--tertiary);
+}
+
+.btn-primary {
+    font-weight: bold;
+    color: var(--light);
+    background-color: var(--primary);
+    cursor: pointer;
+    padding: 1rem 3rem;
+    border-radius: 16px;
+}
