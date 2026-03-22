@@ -1,8 +1,8 @@
 <template>
-    <section id="inicio">
+    <section id="inicio" class="mt-20">
         <div class="section-container h-full flex flex-col justify-center">
             <div class="flex flex-col gap-5">
-                <h1 class="subtitle text-white">Um futuro com compromisso e <br>Excelência</h1>
+                <h1 class="subtitle text-white">Um futuro com Compromisso e <br>Excelência</h1>
                 <p class="text-white">Foco no presente para alcançar um futuro melhor e mais inclusivo, <br> cultura que impacta e muda vidas.</p>
                 <a href="#sobre" class="text-secondary">ver mais</a>
                 <a href="#projetos" class="btn-primary">Projetos</a>
