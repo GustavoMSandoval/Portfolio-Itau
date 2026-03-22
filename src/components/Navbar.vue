@@ -1,5 +1,5 @@
 <template>
-    <header class="fixed w-full top-0 lg:top-5 z-50">
+    <header class="fixed w-full top-0 z-50 py-2">
         <div class="section-container">
             <nav class="hidden lg:flex justify-between items-center py-2 ">
                 <img src="/public/Itaú_Unibanco_logo_2023.png" class="w-20 h-20 " alt="Logo">
@@ -58,6 +58,8 @@ export default {
 <style>
 
 header {
+
+    background-color: var(--light);
 
     @media (max-width: 1019px) {
         background-color: var(--primary);
