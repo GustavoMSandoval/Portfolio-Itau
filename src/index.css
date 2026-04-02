@@ -18,6 +18,12 @@ body {
     margin: auto;
 }
 
+@media (max-width: 1600px) {
+    .section-container {
+        width: 80%;
+    }
+}
+
 .bg-primary {
     background-color: var(--primary);
 }
