@@ -19,7 +19,7 @@
 <style>
 .image-wrapper {
     position: relative;
-    background-image: url('./background/fundo-laranja.png');
+    background-image: url('/background/fundo-laranja.png');
     background-size: cover;
     background-position: top right;
     background-repeat: no-repeat;
