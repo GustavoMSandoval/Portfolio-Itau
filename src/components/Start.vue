@@ -18,7 +18,7 @@
         linear-gradient(to right,
         #e4ccb681,
         #db934081),
-        url('./public/background/itau_fundo.jpg');
+        url('./background/itau_fundo.jpg');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
