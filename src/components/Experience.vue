@@ -21,7 +21,7 @@ import ExperienceCard from './ExperienceCard.vue';
                 ]"/>
                 <div class="col-start-4 col-span-5 h-full hidden lg:flex items-center">
                     <img 
-                        src="/public/background/fundo-azul.png" 
+                        src="/background/fundo-azul.png" 
                         alt="Fundo azul" 
                         class="w-full h-auto "
                     >
@@ -37,7 +37,7 @@ import ExperienceCard from './ExperienceCard.vue';
                 ]"/>
                 <div class="col-start-1 col-span-2 h-full hidden lg:flex items-center">
                     <img 
-                        src="/public/background/fundo-laranja.png" 
+                        src="/background/fundo-laranja.png" 
                         alt="Fundo azul" 
                         class="w-full h-auto "
                     >
@@ -73,7 +73,7 @@ import ExperienceCard from './ExperienceCard.vue';
                 ]"/>
                 <div class="col-start-4 col-span-5 h-full hidden lg:flex items-center">
                     <img 
-                        src="/public/background/fundo-cinza.png" 
+                        src="/background/fundo-cinza.png" 
                         alt="Fundo azul" 
                         class="w-full h-auto "
                     >
